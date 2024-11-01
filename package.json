@@ -1,0 +1,22 @@
+{
+  "name": "reagieren",
+  "version": "1.0.0",
+  "description": "reagieren is a react for german developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcarilla/reagieren.git"
+  },
+  "author": "Luis Carilla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lcarilla/reagieren/issues"
+  },
+  "homepage": "https://github.com/lcarilla/reagieren#readme",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
