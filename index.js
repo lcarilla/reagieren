@@ -2,8 +2,8 @@ import {useState, useCallback, useRef, createContext, useContext, useEffect, use
 
 export const nutzeStatus = useState
 export const nutzeRueckruf = useCallback
-export const nutzeRef = useRef
-export const erstelleKontext = createContext
-export const nutzeContext = useContext
+export const nutzeReferenz = useRef
+export const erstelleZusammenhang = createContext
+export const nutzeZusammenhang = useContext
 export const nutzeEffekt = useEffect
 export const nutzeErinnerung = useMemo
